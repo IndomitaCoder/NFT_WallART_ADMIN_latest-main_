@@ -169,3 +169,4 @@ const NewCategoryModal = ({ onClose }) => {
 };
 
 export default NewCategoryModal;
+ 

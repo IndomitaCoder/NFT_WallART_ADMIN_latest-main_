@@ -20,3 +20,4 @@ export const { setData } = accountSlice.actions;
 export const accountData = (state) => state.account.account;
 
 export default accountSlice.reducer;
+ 

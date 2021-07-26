@@ -26,3 +26,4 @@ export default function CheckBox({name, title, onCheckHandle, dvalue}) {
     </div>
   );
 }
+ 

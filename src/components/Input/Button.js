@@ -50,3 +50,4 @@ const Button = ({ onClickHandle, color, icon, size, rounded, text }) => {
 };
 
 export default Button;
+ 

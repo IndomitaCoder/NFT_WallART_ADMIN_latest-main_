@@ -12,3 +12,4 @@ const StatusComponent = ({ id }) => {
 };
 
 export default StatusComponent;
+ 

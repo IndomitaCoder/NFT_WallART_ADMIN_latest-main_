@@ -394,3 +394,4 @@ const NewItemModal = ({ onClose }) => {
 };
 
 export default NewItemModal;
+ 

@@ -13,4 +13,4 @@ const GoToLogin = () => {
   </div>
 }
 
-export default GoToLogin
+export default GoToLogin 
